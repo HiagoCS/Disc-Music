@@ -1,0 +1,10 @@
+{
+	"basics":[
+		{"name": ".play [link] ou .play [pesquisa]", "description":"Toca o audio do link referenciado no canal que vc está ou mostra os primeiros 5 resultados da pesquisa e toca a escolhida, apenas do Youtube!!"},
+		{"name": ".stop", "description":"Para a musica e tira o Denis DJ da sala."},
+		{"name": ".pause", "description":"Pausa a musica."},
+		{"name": ".resume", "description":"Despausa a musica."},
+		{"name": ".skip", "description":"Passa pra proxima musica."},
+		{"name": ".help", "description":"Exibi os comandos."}
+	]
+}

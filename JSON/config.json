@@ -1,0 +1,6 @@
+{
+	"streamOP": {"seek": "0", "volume": "1"},
+	"ytdlFilter": {"filter": "audioonly"},
+	"prefix": {"music":"."}
+}
+
